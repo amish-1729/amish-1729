@@ -1,8 +1,8 @@
 <h2 align = "center">Hey Folks!  <img src = "https://github.com/Anant-mishra1729/Anant-mishra1729/blob/main/wave.gif" alt = "" width = "30"/></h2>
 
 <p align = "center">
-  Hi! I am <b>Anant Mishra</b> <br>I am from India and currently pursuing my bachelor's from 🏫 <b>TIET Patiala</b><br/>
-  Talking about my skills, 🧠 I am good in <b>Machine Learning</b> and <b>Data Science</b>. I like doing 🕸️ <b>WebDev</b> too.
+  Hi! I am <b>Anant Mishra</b> <br>I'm currently pursuing my bachelor's from 🏫 <b>Thapar Institue Patiala, India</b><br/>
+  I am good in <b>Machine Learning</b> 🧠 and <b>Data Science</b>. I like doing 🕸️ <b>WebDev</b> too.
   
 <h2 align = "center">Here's my primary profile ❤️</h2>
 <p align = "center">
