@@ -1,20 +1,14 @@
-<h2>Hey Folks!  <img src = "https://github.com/Anant-mishra1729/Anant-mishra1729/blob/main/wave.gif" alt = "" width = "30"/></h2>
-
-- 🔭 I’m currently working on **News-Daily using React js | News API**
-
-- 🌱 I’m currently learning **Machine Learning**
-
-- 🌌 I love **Stargazing** and tweaking **My Old Linux PC**
-
-- 🌠 Fact ~ The iron in our blood was once inside a star
-
-<br>
+<h2 align = "center">Hey Folks!  <img src = "https://github.com/Anant-mishra1729/Anant-mishra1729/blob/main/wave.gif" alt = "" width = "30"/></h2>
 
 <p align = "center">
-<a href="https://instagram.com/anantmishra58" target="blank"><img align="center" src="https://img.shields.io/badge/Instagram-292d3e?style=for-the-badge&logo=instagram&logoColor=white" alt="anantmishra58" height="27" width="115" /></a>&nbsp;&nbsp;
-<a href="https://www.linkedin.com/in/anant-mishra-886912212" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-292d3e?style=for-the-badge&logo=linkedin&logoColor=white" alt="amishra1729" height="27" width="115" /></a>&nbsp;&nbsp;
-<a href="https://twitter.com/anant1729" target="blank"><img align="center" src="https://img.shields.io/badge/Twitter-292d3e?style=for-the-badge&logo=twitter&logoColor=white" alt="amishra1729" height="27" width="115" /></a>
-</p>
+  Hi! I am <b>Anant Mishra</b> <br>I am from India and currently pursuing my bachelor's from 🏫 <b>TIET Patiala</b><br/>
+  Talking about my skills, 🧠 I am good in <b>Machine Learning</b> and <b>Data Science</b>. I like doing 🕸️ <b>WebDev</b> too.
+  
+<h2 align = "center">Here's my primary profile ❤️</h2>
+<p align = "center">
+<a href="https://github.com/Anant-mishra1729" target="blank"><img align="center" src="https://img.shields.io/badge/Github-292d3e?style=for-the-badge&logo=instagram&logoColor=white" alt="anantmishra58" height="45" width="150" /></a>&nbsp;&nbsp;
+
+
 
 <hr/>
   <img src = "https://activity-graph.herokuapp.com/graph?username=amish-1729&theme=material-palenight&hide_border=true" alt = "Contribution graph"/>
