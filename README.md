@@ -4,7 +4,7 @@
   Hi! I am <b>Anant Mishra</b> <br>I'm currently pursuing my bachelor's from 🏫 <b>Thapar Institue Patiala, India</b><br/>
   I am good in <b>Machine Learning</b> 🧠 and <b>Data Science</b>. I like doing 🕸️ <b>WebDev</b> too.
   
-<h2 align = "center">Here's my primary profile ❤️</h2>
+<h2 align = "center">Here's my primary github ❤️</h2>
 <p align = "center">
 <a href="https://github.com/Anant-mishra1729" target="blank"><img align="center" src="https://img.shields.io/badge/Github-292d3e?style=for-the-badge&logo=instagram&logoColor=white" alt="anantmishra58" height="45" width="150" /></a>&nbsp;&nbsp;
 
