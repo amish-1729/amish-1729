@@ -7,11 +7,11 @@
 <p align = "center">
 <a href="https://github.com/Anant-mishra1729" target="blank"><img align="center" src="https://img.shields.io/badge/Github-282c34?style=for-the-badge&logo=instagram&logoColor=white" alt="anantmishra58" height="45" width="150" /></a>&nbsp;&nbsp;
 
-### Working on 👷‍♂️
+## Working on 👷‍♂️
 * Dynamic Hand Gesture Recognition
 * Emotion Recognition using Machine Learning  
   
-### Learning 📚
+## Learning 📚
 * Keras and Tensorflow
 * TensorflowJS
 
