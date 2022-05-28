@@ -7,6 +7,9 @@
 <p align = "center">
 <a href="https://github.com/Anant-mishra1729" target="blank"><img align="center" src="https://img.shields.io/badge/Github-282c34?style=for-the-badge&logo=instagram&logoColor=white" alt="anantmishra58" height="45" width="150" /></a>&nbsp;&nbsp;
 
+### Working on 👷‍♂️
+* Dynamic Hand Gesture Recognition
+* Emotion Recognistion using Machine Learning  
 
 <hr/>
   <img src = "https://activity-graph.herokuapp.com/graph?username=amish-1729&theme=one-dark&hide_border=true" alt = "Contribution graph"/>
