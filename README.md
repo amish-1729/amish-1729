@@ -17,7 +17,7 @@
 </p>
 
 <hr/>
-  <img src = "https://activity-graph.herokuapp.com/graph?username=Anant-mishra1729&theme=material-palenight&hide_border=true" alt = "Contribution graph"/>
+  <img src = "https://activity-graph.herokuapp.com/graph?username=amish-1729&theme=material-palenight&hide_border=true" alt = "Contribution graph"/>
 <hr/>
   
 <details>
