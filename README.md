@@ -10,6 +10,10 @@
 ### Working on 👷‍♂️
 * Dynamic Hand Gesture Recognition
 * Emotion Recognition using Machine Learning  
+  
+## Learning 📚
+* Keras and Tensorflow
+* TensorflowJS
 
 <hr/>
   <img src = "https://activity-graph.herokuapp.com/graph?username=amish-1729&theme=one-dark&hide_border=true" alt = "Contribution graph"/>
