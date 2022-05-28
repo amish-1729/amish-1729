@@ -2,7 +2,7 @@
 
 <p align = "center">
   Hi! I am <b>Anant Mishra</b> <br>I'm currently pursuing BE/BTech from 🏫 <b>Thapar Institue Patiala, India</b><br/>
-  I am good in <b>Machine Learning</b> 🧠 and <b>Data Science</b>. I like doing 🕸️ <b>WebDev</b> too.  
+  I have experience in <b>Machine Learning</b> 🧠 and <b>Data Science</b> along with 🕸️ <b>Web Development</b>.  
 
 ## Working on 👷‍♂️
 * Dynamic Hand Gesture Recognition
