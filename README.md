@@ -55,6 +55,9 @@ alt="Anant-mishra1729" align = "right"/>
 <p align = "center">
 <a href="https://github.com/Anant-mishra1729" target="blank"><img align="center" src="https://img.shields.io/badge/Github-282c34?style=for-the-badge&logo=github&logoColor=white" alt="anantmishra58" height="45" width="130" /></a>&nbsp;&nbsp;
 <hr/>
+
+![contributions](profile-3d-contrib/profile-night-rainbow.svg)
+
 <h2 align = "center">You can reach me here... 📬</h2> 
   <p align = "center">
 <a href="https://instagram.com/anantmishra58" target="blank"><img align="center" src="https://img.shields.io/badge/Instagram-282c34?style=for-the-badge&logo=instagram&logoColor=white" alt="anantmishra58" height="27" width="115" /></a>&nbsp;&nbsp;
@@ -62,7 +65,7 @@ alt="Anant-mishra1729" align = "right"/>
 <a href="https://twitter.com/anant1729" target="blank"><img align="center" src="https://img.shields.io/badge/Twitter-282c34?style=for-the-badge&logo=twitter&logoColor=white" alt="amishra1729" height="27" width="115" /></a>
 </p>
 
-![contributions](./profile-3d-contrib/profile-night-green.svg)
+
 <!---
 CREDITS :
   https://github.com/DenverCoder1/github-readme-streak-stats
