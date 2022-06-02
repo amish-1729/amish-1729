@@ -56,7 +56,7 @@ alt="Anant-mishra1729" align = "right"/>
 <a href="https://github.com/Anant-mishra1729" target="blank"><img align="center" src="https://img.shields.io/badge/Github-282c34?style=for-the-badge&logo=github&logoColor=white" alt="anantmishra58" height="45" width="130" /></a>&nbsp;&nbsp;
 <hr/>
 
-![contributions](profile-3d-contrib/profile-night-rainbow.svg)
+![contributions](profile-3d-contrib/profile-night-green.svg)
 
 <h2 align = "center">You can reach me here... 📬</h2> 
   <p align = "center">
