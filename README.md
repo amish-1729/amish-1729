@@ -51,10 +51,12 @@ alt="Anant-mishra1729" align = "right"/>
 <img src="https://github-readme-streak-stats.herokuapp.com?user=amish-1729&theme=onedark&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" alt="Anant-mishra1729" width = "49%"/>
 </p>
 </details>
+<!--
 <h2 align = "center">Here's my another profile ❤️</h2>
 <p align = "center">
 <a href="https://github.com/Anant-mishra1729" target="blank"><img align="center" src="https://img.shields.io/badge/Github-282c34?style=for-the-badge&logo=github&logoColor=white" alt="anantmishra58" height="45" width="130" /></a>&nbsp;&nbsp;
 <hr/>
+-->
 
 ![contributions](profile-3d-contrib/profile-night-green.svg)
 
